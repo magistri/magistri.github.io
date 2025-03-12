@@ -3,13 +3,13 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `bundle exec jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Federico Magistri"
+title                    : "Federico's Homepage"
 title_separator          : "-"
 name                     : &name "Federico Magistri"
 description              : &description "Principal Perception Engineer"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Federico Magistri"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Principal Percep Engineer at L&A. <br />I got a PhD at the Photogrammetry and Robotics Lab of the University of Bonn."
   location         : # "Earth"
   employer         : "L&A"
   uri              : # URL
@@ -214,7 +214,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -223,7 +223,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -247,15 +247,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -274,14 +265,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 
 # Sass/SCSS
