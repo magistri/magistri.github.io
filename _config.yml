@@ -13,7 +13,7 @@ title                    : "Federico's Homepage"
 title_separator          : "-"
 name                     : &name "Federico Magistri"
 description              : &description "Principal Perception Engineer"
-url                      : https://magistri.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://federico.magistri.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "magistri/magistri.github.io"
 
