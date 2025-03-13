@@ -1,5 +1,5 @@
 ---
-title: "Automated Leaf-Level Inspection of Crops by Combining UAV and UGVs."
+title: "Automated Leaf-Level Inspection of Crops by Combining UAV and UGVs"
 excerpt: "<br/><img src='/images/phenorob.png'>"
 collection: portfolio
 ---
