@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+<img src="images/about.png">
+
+About Me
+======
+
+I am the Principal Perception Engineer at L&A, a Californian agriculture technology firm, developing robust Computer Vision systems for laser weeding. I recently obtained my Ph.D. degree at the Photogrammetry and Robotics Lab of the University of Bonn with a thesis titled "Robotics in Horticulture: From Sensor Data to Autononous Harvesting". I have worked at the University of Bonn since November 2019 within the Cluster of Excellence “PhenoRob” working on Computer Vision, Machine Learning and Robotics for sustainable crop production. I have been a visiting student at the Centre for Robotics of the Queensland University of Technology in fall 2023. I received my M.Sc. in Artificial Intelligence and Robotics from “La Sapienza” University of Rome with a thesis on Swarm Robotics for Precision Agriculture in collaboration with the National Research Council of Italy and the Wageningen University and Research. During my master, I spent one semester at the University of Freiburg as an Erasmus student.
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
