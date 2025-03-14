@@ -1,0 +1,4 @@
+teaser.png: $(TARGET).pdf
+    pdftoppm -r 15 -f 1 -l 8 $(TARGET).pdf thumbnail
+    convert +append thumbnail.ppm teaser.png
+    rm thumbnail.ppm
