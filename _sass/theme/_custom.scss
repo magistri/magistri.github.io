@@ -32,7 +32,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-base-color                 : #{$gray};
     --global-bg-color                   : #{$bg};
     --global-border-color               : #2f7f93;
-    --global-code-background-color      : #2f7f93;
+    --global-code-background-color      : #{$bg};
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
     --global-link-color                 : #2f7f93;
